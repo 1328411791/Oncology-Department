@@ -1,0 +1,304 @@
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_ONCOLOGYSL_DIAGNOSES">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>Chinese</LanguageNameLocalized>
+	<Contributors>
+	<Name>1328411791</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+		
+        <!-- Diagnoses - Skin Cancer -->
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC1_1</LocID>                         
+		<Text>基底细胞癌 (阶段 1)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC1_1_DESC</LocID>             
+		<Text>基底细胞癌是人类最常见的癌症形式。 它是一种非黑色素瘤皮肤癌，始于表皮的基底细胞层（皮肤的顶层），生长非常缓慢，很少扩散（转移）。\n\n在第一阶段，肿瘤是 大约2厘米宽或更小，并且可能已经扩散到真皮中。</Text>	
+		</GameDBLocalizedString>
+
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC1_2</LocID>                         
+		<Text>基底细胞癌 (阶段 2)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC1_2_DESC</LocID>             
+		<Text>基底细胞癌是人类最常见的癌症形式。 它是一种非黑色素瘤皮肤癌，始于表皮的基底细胞层（皮肤的顶层），生长非常缓慢，很少扩散（转移）。\n\n在第二阶段，肿瘤较大 宽度可能超过2厘米，可能已经扩散到真皮中，并且具有诸如神经周浸润的高风险特征。</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC1_3</LocID>                         
+		<Text>基底细胞癌 (阶段 3)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC1_3_DESC</LocID>             
+		<Text>基底细胞癌是人类最常见的癌症形式。 它是一种非黑素瘤皮肤癌，始于表皮的基底细胞层（皮肤的顶层），生长非常缓慢，很少扩散（转移）。\n\n在第三阶段，癌症已经扩散 到皮肤下面的区域，例如肌肉，骨骼，软骨或淋巴结，但仅限于原始肿瘤附近的区域。</Text>	
+		</GameDBLocalizedString>
+
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC1_4</LocID>                         
+		<Text>基底细胞癌 (阶段 4)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC1_4_DESC</LocID>             
+		<Text>基底细胞癌是人类最常见的癌症形式。 它是一种非黑素瘤皮肤癌，始于表皮的基底细胞层（皮肤的顶层），生长非常缓慢，很少扩散（转移）。\n\n在第4阶段，癌症已经扩散到皮肤以外的区域，例如大脑或肺等遥远的器官，或侵入了骨骼。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC2_1</LocID>                         
+		<Text>鳞状细胞癌（阶段 1）</Text>	
+		</GameDBLocalizedString>
+
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC2_1_DESC</LocID>             
+		<Text>皮肤鳞状细胞癌是皮肤癌的一种常见形式，它在构成皮肤中层和外层的鳞状细胞中发展。\n\n在第1阶段，肿瘤大约为2厘米或更小，并且可能已经扩散到真皮中。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC2_2</LocID>                         
+		<Text>鳞状细胞癌（阶段 2）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC2_2_DESC</LocID>             
+		<Text>皮肤鳞状细胞癌是皮肤癌的一种常见形式，它在构成皮肤中层和外层的鳞状细胞中发展。\n\n在第二阶段，肿瘤大于2厘米宽，可能已经扩散到真皮，并具有高危特征，如神经周围侵犯。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC2_3</LocID>                         
+		<Text>鳞状细胞癌（阶段 3）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC2_3_DESC</LocID>             
+		<Text>皮肤鳞状细胞癌是皮肤癌的一种常见形式，它在构成皮肤中层和外层的鳞状细胞中发展。\n\n在第三阶段，肿瘤已经扩散到皮肤以下的区域，如肌肉、骨骼、软骨或淋巴结，但仅限于靠近原发肿瘤的部位。</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC2_4</LocID>                         
+		<Text>鳞状细胞癌（阶段 4）)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC2_4_DESC</LocID>             
+		<Text>皮肤鳞状细胞癌是皮肤癌的一种常见形式，它在构成皮肤中层和外层的鳞状细胞中发展。\n\n在第四阶段，癌症已经扩散到皮肤以外的区域，比如大脑或肺等远处的器官，或者已经侵入骨骼。只有那些靠近原来肿瘤的。</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC3_1</LocID>                         
+		<Text>黑色素瘤（阶段 1）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC3_1_DESC</LocID>             
+		<Text>黑色素瘤的发生是由于皮肤中的色素细胞(称为黑色素细胞)发生突变，并开始生长失控。\n\n在第一阶段，癌细胞已经深入皮肤，但还没有扩散到淋巴结或身体的其他部位。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC3_2</LocID>                         
+		<Text>黑色素瘤（阶段 2）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC3_2_DESC</LocID>             
+		<Text>黑色素瘤的发生是由于皮肤中的色素细胞(称为黑色素细胞)发生突变，并开始生长失控。\n\n第二阶段黑色素瘤更厚，它穿过表皮并进一步深入真皮，即皮肤的致密内层。它有更高的传播机会。</Text>	
+		</GameDBLocalizedString>
+
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC3_3</LocID>                         
+		<Text>黑色素瘤（阶段 3）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC3_3_DESC</LocID>             
+		<Text>黑色素瘤的发生是由于皮肤中的色素细胞(称为黑色素细胞)发生突变，并开始生长失控。\n\n第三阶段是指黑色素瘤在局部或通过淋巴系统扩散到局部淋巴结。但它没有扩散到远处的淋巴结或器官。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC3_4</LocID>                         
+		<Text>黑色素瘤（阶段 4）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_SC3_4_DESC</LocID>             
+		<Text>黑色素瘤的发生是由于皮肤中的色素细胞(称为黑色素细胞)发生突变，并开始生长失控。\n\n第四阶段是指黑色素瘤通过血液扩散到身体其他部位，如皮肤或软组织的远处、远处淋巴结或其他器官。</Text>	
+		</GameDBLocalizedString>
+		
+		<!-- Diagnoses - Adrenal Gland Cancer -->
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_AGC1_0</LocID>                         
+		<Text>嗜铬细胞瘤（局部）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_AGC1_0_DESC</LocID>             
+		<Text>嗜铬细胞瘤是一种罕见的肾上腺组织肿瘤。它会导致过多的肾上腺素和去甲肾上腺素的释放，这是一种控制心率、新陈代谢和血压的激素。局部的早期肿瘤在一个或两个肾上腺的肾上腺髓质中被发现。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_AGC1_1</LocID>                         
+		<Text>嗜铬细胞瘤（区域）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_AGC1_1_DESC</LocID>             
+		<Text>嗜铬细胞瘤是一种罕见的肾上腺组织肿瘤。它会导致过多的肾上腺素和去甲肾上腺素的释放，这是一种控制心率、新陈代谢和血压的激素。已经扩散的癌细胞开始在肿瘤附近的组织或淋巴结中被发现。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_AGC1_2</LocID>                         
+		<Text>嗜铬细胞瘤（转移）</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_AGC1_2_DESC</LocID>             
+		<Text>嗜铬细胞瘤是一种罕见的肾上腺组织肿瘤。它会导致过多的肾上腺素和去甲肾上腺素的释放，这是一种控制心率、新陈代谢和血压的激素。转移的癌细胞和已经扩散的肿瘤开始一个遥远的身体的一部分出现。</Text>	
+		</GameDBLocalizedString>
+		
+		<!-- Diagnoses - Lung Cancer -->
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_LC_0</LocID>                         
+		<Text>非小细胞肺癌 (局部)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_LC_0_DESC</LocID>             
+		<Text>非小细胞肺癌(NSCLC)是指健康细胞在肺内发生变化并生长失控，形成肿块，称为肿瘤、病变或结节。肺肿瘤可以发生在肺的任何部位。在肺部局部的地方发现的癌症，但没有进展到淋巴结或远处的器官。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_LC_1</LocID>                         
+		<Text>非小细胞肺癌 (区域)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_LC_1_DESC</LocID>             
+		<Text>非小细胞肺癌(NSCLC)是指健康细胞在肺内发生变化并生长失控，形成肿块，称为肿瘤、病变或结节。肺肿瘤可以发生在肺的任何部位。局部的癌细胞从肺部进展到附近的淋巴结。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_LC_2</LocID>                         
+		<Text>非小细胞肺癌 (转移)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_LC_2_DESC</LocID>             
+		<Text>非小细胞肺癌(NSCLC)是指健康细胞在肺内发生变化并生长失控，形成肿块，称为肿瘤、病变或结节。癌细胞已经从肺转移到附近的淋巴结。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_LC1_0</LocID>                         
+		<Text>小细胞肺癌 (局限期)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_LC1_0_DESC</LocID>             
+		<Text>小细胞肺癌（SCLC）开始于健康细胞的改变和生长失控，形成肿块，称为肿瘤、病变或结节。小细胞肺癌起源于肺的神经细胞或产生激素的细胞。“小细胞”指的是在显微镜下看到的癌细胞的大小和形状。局限期意味着癌症只是在一个部分的胸部和放射治疗可能是一个治疗选择。在首次诊断时，每3个小细胞肺癌患者中就有1人有局限期疾病。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_LC1_1</LocID>                         
+		<Text>小细胞肺癌 (广泛期)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_LC1_1_DESC</LocID>             
+		<Text>小细胞肺癌（SCLC）开始于健康细胞的改变和生长失控，形成肿块，称为肿瘤、病变或结节。小细胞肺癌起源于肺的神经细胞或产生激素的细胞。“小细胞”指的是在显微镜下看到的癌细胞的大小和形状。广泛分期是指小细胞肺癌已经扩散到身体的其他部位，如肺、骨、脑、骨髓等。许多医生认为小细胞肺癌已经扩散到肺周围的液体也是广泛的分期。当小细胞肺癌第一次被发现的时候，大约2 / 3的SCLC患者有广泛的疾病。</Text>	
+		</GameDBLocalizedString>
+		
+		<!-- -->
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_BC1_0</LocID>                         
+		<Text>直肠癌 (局部)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_BC1_0_DESC</LocID>             
+		<Text>结肠和直肠腺癌占所有大肠癌病例的95％。 在胃肠道中，直肠和结肠腺癌在大肠内壁的细胞中发展。 结肠和直肠腺癌通常开始于称为息肉的组织生长。 一种称为腺瘤的特殊息肉可能会发展成癌症。 癌症局限于肠壁或可能已经扩散到肠壁的外表面。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_BC1_1</LocID>                         
+		<Text>直肠癌 (区域)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_BC1_1_DESC</LocID>             
+		<Text>结肠和直肠的腺癌占所有结直肠癌病例的95%。在胃肠道中，直肠和结肠腺癌在大肠内层的细胞中发生。结肠和直肠的腺癌通常开始于息肉组织的生长。一种叫做腺瘤的特殊类型的息肉可能发展成癌症。局部的癌症已经扩散到肠附近的淋巴结。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_BC1_2</LocID>                         
+		<Text> 直肠癌 (转移)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_BC1_2_DESC</LocID>             
+		<Text>结肠和直肠的腺癌占所有结直肠癌病例的95%。在胃肠道中，直肠和结肠腺癌在大肠内层的细胞中发生。结肠和直肠的腺癌通常开始于息肉组织的生长。一种叫做腺瘤的特殊类型的息肉可能发展成癌症。转移是指癌细胞在远处被发现并扩散。</Text>	
+		</GameDBLocalizedString>
+		
+		<!-- -->
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_AGC2_0</LocID>                         
+		<Text>肾上腺皮质癌 (局部)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_AGC2_0_DESC</LocID>             
+		<Text>肾上腺皮质癌是一种罕见的疾病，其恶性细胞形成于肾上腺的外层。局部的肿瘤是5厘米或更小,只发现在肾上腺。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_AGC2_1</LocID>                         
+		<Text>肾上腺皮质癌 (区域)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_AGC2_1_DESC</LocID>             
+		<Text>嗜铬细胞瘤是一种罕见的肾上腺组织肿瘤。它会导致过多的肾上腺素和去甲肾上腺素的释放，这是一种控制心率、新陈代谢和血压的激素。区域,肿瘤大小和已蔓延至附近的淋巴结或附近的组织或器官(肾、隔膜、胰腺、脾脏或肝)或大血管(肾静脉或腔静脉),并有可能进一步蔓延到附近的淋巴结。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_AGC2_2</LocID>                         
+		<Text>肾上腺皮质癌 (转移)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_AGC2_2_DESC</LocID>             
+		<Text>嗜铬细胞瘤是一种罕见的肾上腺组织肿瘤。它会导致过多的肾上腺素和去甲肾上腺素的释放，这是一种控制心率、新陈代谢和血压的激素。转移,肿瘤大小,可能会蔓延到附近的淋巴结,并已扩散到身体的其他部位,如肺、骨或腹膜。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_MC001_0</LocID>                         
+		<Text>神经内分泌肿瘤 (局限期)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_MC001_0_DESC</LocID>             
+		<Text>神经内分泌肿瘤(NETs)是由内分泌(激素)和神经系统细胞产生的肿瘤。许多是良性的，而一些是恶性的。它们最常见于肠道，通常被称为类癌肿瘤，但也见于胰腺、肺和身体的其他部位。在有限的阶段，肿瘤小于4厘米，已经生长到连接阑尾和腹壁的膜。</Text>	
+		</GameDBLocalizedString>
+		
+		<GameDBLocalizedString>      
+		<LocID>DIA_ONCO_MC001_1</LocID>                         
+		<Text>神经内分泌肿瘤 (广布期)</Text>	
+		</GameDBLocalizedString>
+		
+        <GameDBLocalizedString>      
+		<LocID>DIA_ONCO_MC001_1_DESC</LocID>             
+		<Text>神经内分泌肿瘤(NETs)是由内分泌(激素)和神经系统细胞产生的肿瘤。许多是良性的，而一些是恶性的。它们最常见于肠道，通常被称为类癌肿瘤，但也见于胰腺、肺和身体的其他部位。广泛的阶段，肿瘤已生长通过腹膜或已侵入附近的器官或结构。</Text>	
+		</GameDBLocalizedString>
+		
+		
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>

@@ -1,0 +1,23 @@
+<Database>
+
+<GameDBStringTable ID="LOC_ZHHANS_ADDON_ONCO_BUILDING_MODE">
+<LanguageCode>zh-Hans</LanguageCode>
+<LanguageNameLocalized>Chinese</LanguageNameLocalized>
+<Contributors>
+<Name>1328411791</Name>
+</Contributors>
+
+<LocalizedStrings>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_OFFICE</LocID>                          	
+		<Text>癌症科诊室</Text>   
+	</GameDBLocalizedString>
+	<GameDBLocalizedString>      
+		<LocID>ROOM_TYPE_ONCO_OFFICE_DESCRIPTION</LocID>              	
+		<Text>专门从事肿瘤学的诊室。 员工要求:\n1x 医生</Text>  
+	</GameDBLocalizedString>
+
+
+</LocalizedStrings>
+</GameDBStringTable>
+</Database>

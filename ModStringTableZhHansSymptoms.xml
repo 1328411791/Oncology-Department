@@ -1,0 +1,524 @@
+<Database>
+	<GameDBStringTable ID="LOC_ZHHANS_ADDON_ONCOLOGYSL_SYMPTOMS">
+	<LanguageCode>zh-Hans</LanguageCode>
+	<LanguageNameLocalized>Chinese</LanguageNameLocalized>
+	<Contributors>
+	<Name>1328411791</Name>
+	</Contributors>
+
+	<LocalizedStrings>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ACTINIC_KERATOSIS</LocID>                               
+		<Text>光化性角化病</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ACTINIC_KERATOSIS_DESC</LocID>                   
+		<Text>光化性角化病是皮肤上的粗糙鳞状斑块，是由于多年暴露于阳光下而形成的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NODULE_SKIN</LocID>                               
+		<Text>皮肤上的结节</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NODULE_SKIN_DESC</LocID>                   
+		<Text>皮肤上的小而有光泽的肿块或结节</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_1_DETECTED</LocID>                               
+		<Text>基底细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_1_DETECTED_DESC</LocID>                   
+		<Text>发现基底细胞癌无转移迹象。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_2_DETECTED</LocID>                               
+		<Text>基底细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_2_DETECTED_DESC</LocID>                   
+		<Text>发现基底细胞癌无转移迹象。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PERINEURAL_INVASION</LocID>                               
+		<Text>嗜神经侵袭</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_PERINEURAL_INVASION_DESC</LocID>                   
+		<Text>嗜神经侵袭, 简称PNI，是指肿瘤对神经周围空间的侵犯。。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_3_DETECTED</LocID>                               
+		<Text>基底细胞癌。</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_3_DETECTED_DESC</LocID>                   
+		<Text>发现基底细胞癌已经扩散到附近的淋巴结和周围组织。.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_4_DETECTED</LocID>                               
+		<Text>基底细胞癌。</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC1_4_DETECTED_DESC</LocID>                   
+		<Text>发现基底细胞癌有转移的迹象。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_METASTASIZED_CANCER</LocID>                               
+		<Text>转移性恶性肿瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_METASTASIZED_CANCER_DESC</LocID>                   
+		<Text>转移性恶性肿瘤是指从原发部位扩散到身体其他部位的癌症。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CHRONIC_WOUND</LocID>                               
+		<Text>慢性创面</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CHRONIC_WOUND_DESC</LocID>                   
+		<Text>慢性伤口是三个月内无法愈合的溃疡。他们可以从小处开始，可能会反复结痂，但不会好转。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_1_DETECTED</LocID>                               
+		<Text>鳞状细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_1_DETECTED_DESC</LocID>                   
+		<Text>发现鳞状细胞癌无转移迹象。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_2_DETECTED</LocID>                               
+		<Text>鳞状细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_2_DETECTED_DESC</LocID>                   
+		<Text>发现鳞状细胞癌无转移迹象。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_3_DETECTED</LocID>                               
+		<Text>鳞状细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_3_DETECTED_DESC</LocID>                   
+		<Text>发现鳞状细胞癌已经扩散到附近的淋巴结和周围组织。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_4_DETECTED</LocID>                               
+		<Text>鳞状细胞癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC2_4_DETECTED_DESC</LocID>                   
+		<Text>发现有转移迹象的鳞状细胞癌。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ABNORMAL_MOLE</LocID>                               
+		<Text>异常痣</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ABNORMAL_MOLE_DESC</LocID>                   
+		<Text>长有不均匀的边缘、不寻常的颜色或生长变化的痣。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_1_DETECTED</LocID>                               
+		<Text>检测到黑色素瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_1_DETECTED_DESC</LocID>                   
+		<Text>检测到黑色素瘤没有转移的迹象。</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_2_DETECTED</LocID>                               
+		<Text>检测到黑色素瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_2_DETECTED_DESC</LocID>                   
+		<Text>检测到黑色素瘤没有转移的迹象。</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_3_DETECTED</LocID>                               
+		<Text>检测到黑色素瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_3_DETECTED_DESC</LocID>                   
+		<Text>检测发现黑色素瘤，有迹象表明它已经扩散到附近的淋巴结和周围组织。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_4_DETECTED</LocID>                               
+		<Text>检测到黑色素瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_SC3_4_DETECTED_DESC</LocID>                   
+		<Text>发现有转移迹象的黑色素瘤</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HIGH_EPLVL</LocID>                               
+		<Text>高肾上腺素水平</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HIGH_EPLVL_DESC</LocID>                   
+		<Text>病人血液中的肾上腺素水平升高。肾上腺素通常由肾上腺和延髓内的少量神经元共同产生。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HIGH_NEPLVL</LocID>                               
+		<Text>去甲肾上腺素水平高</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HIGH_NEPLVL_DESC</LocID>                   
+		<Text>患者血液去甲肾上腺素水平升高。去甲肾上腺素是人体自然产生的一种化学物质，它既是一种应激激素，又是一种神经递质。当大脑感知到压力事件发生时，它作为一种应激激素释放到血液中。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC1_0_DETECTED</LocID>                               
+		<Text>检出嗜铬细胞瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC1_0_DETECTED_DESC</LocID>                   
+		<Text>已经检测到嗜铬细胞瘤，并且有证据表明它仅是局部的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC1_1_DETECTED</LocID>                               
+		<Text>检出嗜铬细胞瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC1_1_DETECTED_DESC</LocID>                   
+		<Text>已经检测出嗜铬细胞瘤，并有证据表明它是区域性的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC1_2_DETECTED</LocID>                               
+		<Text>检出嗜铬细胞瘤</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC1_2_DETECTED_DESC</LocID>                   
+		<Text>已经检测到嗜铬细胞瘤，并有转移迹象。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC_0_DETECTED</LocID>                               
+		<Text>检测到非小细胞肺癌（NSCLC）</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC_0_DETECTED_DESC</LocID>                   
+		<Text>检测到非小细胞肺癌仅是局部的的证据。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC_1_DETECTED</LocID>                               
+		<Text>检测到非小细胞肺癌（NSCLC）</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC_1_DETECTED_DESC</LocID>                   
+		<Text>测试已经检测到非小细胞肺癌，并有局部证据。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SL_SEIZURES</LocID>                               
+		<Text>癫痫发作</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SL_SEIZURES_DESC</LocID>                   
+		<Text>癫痫发作是大脑中突然的，不受控制的电干扰。 它可能会导致您的行为，动作或感觉以及意识水平发生变化。</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC_2_DETECTED</LocID>                               
+		<Text>检测到非小细胞肺癌（NSCLC）</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC_2_DETECTED_DESC</LocID>                   
+		<Text>已经检测到非小细胞肺癌，并有转移证据。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SL_HEMOPTYSIS</LocID>                               
+		<Text>咯血</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SL_HEMOPTYSIS_DESC</LocID>                   
+		<Text>咯血是从支气管，喉，气管或肺中咳出血液或沾有血液的粘液。 换句话说，这是气道出血。 这可能发生在肺癌，结核病，支气管炎或肺炎等感染以及某些心血管疾病中。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC1_0_DETECTED</LocID>                               
+		<Text>检测到小细胞肺癌（SCLC）</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC1_0_DETECTED_DESC</LocID>                   
+		<Text>测试已经检测到小细胞肺癌，并有证据表明它处于有限状态。</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC1_1_DETECTED</LocID>                               
+		<Text>检测到小细胞肺癌（SCLC)</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_LC1_1_DETECTED_DESC</LocID>                   
+		<Text>已经检测到小细胞肺癌，并有证据表明它处于广泛状态。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NERVE_DAMAGE</LocID>                               
+		<Text>术后神经性疼痛</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NERVE_DAMAGE_DESC</LocID>                   
+		<Text>如果神经在手术过程中受损，则可能会导致术后神经性疼痛（PONP）。 受损的神经无法正确地将信号从身体的各个部位传递到大脑。 相反，这些信号被夸大了，引起了慢性疼痛，这种疼痛可能持续数月甚至数年。</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NERVE_DAMAGE</LocID>                               
+		<Text>过敏性休克</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_NERVE_DAMAGE_DESC</LocID>                   
+		<Text>过敏性休克是一种罕见但严重的过敏反应，如果不立即治疗，可能会致命。 最常见的原因是对食物，昆虫叮咬或某些药物过敏。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC1_0_DETECTED</LocID>                               
+		<Text>检出大肠腺癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC1_0_DETECTED_DESC</LocID>                   
+		<Text>测试已经检测到结直肠腺癌，并且有证据表明它仅是局部的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC1_1_DETECTED</LocID>                               
+		<Text>检出大肠腺癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC1_1_DETECTED_DESC</LocID>                   
+		<Text>已经检测到结直肠腺癌，并有证据表明它是区域性的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC1_2_DETECTED</LocID>                               
+		<Text>检出大肠腺癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_BC1_2_DETECTED_DESC</LocID>                   
+		<Text>已经检测到结直肠腺癌，并有转移证据。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HIGH_CEALVL</LocID>                               
+		<Text>高致癌胚胎抗原水平</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HIGH_CEALVL_DESC</LocID>                   
+		<Text>患者血液中癌胚抗原水平升高。CEA水平高可能是某些类型癌症的征兆。这些癌症包括结肠癌、直肠癌、前列腺癌、卵巢癌、肺癌、甲状腺癌和肝癌。较高的CEA水平也可能是一些非癌性疾病的征兆，如肝硬化、非癌性乳腺疾病和肺气肿。</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_POLYPS</LocID>                               
+		<Text>大肠息肉</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_POLYPS_DESC</LocID>                   
+		<Text>息肉是一种生长在结肠和直肠内壁的组织，并向肠道内延伸。结肠息肉患者通常没有症状。大多数结肠息肉是无害的，尽管有些类型会癌变。</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC2_0_DETECTED</LocID>                               
+		<Text>检出肾上腺皮质癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC2_0_DETECTED_DESC</LocID>                   
+		<Text>检测发现肾上腺皮质癌，有证据表明它只是局部的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC2_1_DETECTED</LocID>                               
+		<Text>检出肾上腺皮质癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC2_1_DETECTED_DESC</LocID>                   
+		<Text>发现肾上腺皮质癌，有证据表明它是区域性的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC2_2_DETECTED</LocID>                               
+		<Text>检出肾上腺皮质癌</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_AGC2_2_DETECTED_DESC</LocID>                   
+		<Text>发现肾上腺皮质癌有转移的证据。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPONATREMIA</LocID>                               
+		<Text>低钠血症</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPONATREMIA_DESC</LocID>                   
+		<Text>当血液中的钠浓度异常低时，就会出现低钠血症。钠是一种电解质，它有助于调节细胞内和细胞周围的水量。</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERGLYCEMIA</LocID>                               
+		<Text>高血糖</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERGLYCEMIA_DESC</LocID>                   
+		<Text>高血糖是高血糖的专业术语。当体内胰岛素不足或不能正常使用胰岛素时，就会出现高血糖。</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERCORTISOL</LocID>                               
+		<Text>皮质醇增多症</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERCORTISOL_DESC</LocID>                   
+		<Text>库欣综合征，也被称为高皮质醇症，是一种罕见的内分泌疾病，由身体组织长期暴露在过多的皮质醇水平下引起。皮质醇是肾上腺自然分泌的一种激素。</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERALDOSTERONISM</LocID>                               
+		<Text>高醛甾酮症</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_HYPERALDOSTERONISM_DESC</LocID>                   
+		<Text>高醛固酮增多症是一种肾上腺分泌过多醛固酮导致高血压和低血钾水平的疾病。原发性醛固酮增多症可由一侧肾上腺过度活跃(单侧病变)或双侧病变(双侧病变)引起。</Text> 
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_MC001_0_DETECTED</LocID>                               
+		<Text>胃肠道净检测</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_MC001_0_DETECTED_DESC</LocID>                   
+		<Text>已经检测到神经内分泌肿瘤，并有证据表明其处于有限状态。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_MC001_1_DETECTED</LocID>                               
+		<Text>胃肠道净检测</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_ONCO_MC001_1_DETECTED_DESC</LocID>                   
+		<Text>检测发现一个胃肠神经内分泌肿瘤，有证据表明它是广泛的状态。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_LARGE_LYMPHNODE</LocID>                               
+		<Text>淋巴结肿大</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_LARGE_LYMPHNODE_DESC</LocID>                   
+		<Text>淋巴结因疾病、感染或压力而肿大。淋巴结肿大是你的淋巴系统正在清除体内致病因子的一个信号。免疫系统腺体通常因细菌或病毒感染而增大，但许多淋巴结的突然肿胀可能意味着癌症。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ELAVATED_5HIAA</LocID>                               
+		<Text>5-HIAA（5-羟基吲哚乙酸）水平升高</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ELAVATED_5HIAA_DESC</LocID>                   
+		<Text>患者尿液中5-HIAA(5-羟基吲哚乙酸)水平升高。血清素，在尿液中以5羟吲哚乙酸(5HIAA)的形式测定。5HIAA水平升高与类癌综合征和类癌危象相关。心脏瓣膜长期暴露于高水平的血清素与疾病的并发症有关。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CGA_BL_DETECTED</LocID>                               
+		<Text>嗜铬粒蛋白A水平升高</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CGA_BL_DETECTED_DESC</LocID>                   
+		<Text>患者血液中肿瘤标志物嗜铬粒蛋白A水平升高。嗜铬粒蛋白A (CgA)是所有类癌的一般标志物。它是一种由肿瘤细胞产生并释放的蛋白质。嗜铬粒蛋白A与其他激素相关，可能参与其调节。血液中有正常水平的嗜铬粒蛋白a，目前的范围大致小于39ng/L。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CARCINOID_CRISIS</LocID>                               
+		<Text>类癌危象</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_CARCINOID_CRISIS_DESC</LocID>                   
+		<Text>类癌危象是一种威胁生命的类癌综合征，它是由肿瘤释放大量具有生物活性的化合物引起的，这些化合物可能是由极端压力、肿瘤操作(活检或手术)或麻醉引起的。</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ANAPHYLACTIC_SHOCK</LocID>                               
+		<Text>过敏性休克</Text>  
+	</GameDBLocalizedString>
+            
+	<GameDBLocalizedString>      
+		<LocID>SYM_SLP_ANAPHYLACTIC_SHOCK_DESC</LocID>                   
+		<Text>过敏性休克是一种罕见但严重的过敏反应，如果不及时治疗可能会致命。它通常是由食物过敏、蚊虫叮咬或某些药物引起的。需要立即注射一种叫做肾上腺素的药物。</Text>  
+	</GameDBLocalizedString>
+	
+	
+	</LocalizedStrings>
+	</GameDBStringTable>
+</Database>
