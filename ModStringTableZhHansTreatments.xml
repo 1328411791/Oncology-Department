@@ -1,4 +1,4 @@
-<Database>
+﻿<Database>
 	<GameDBStringTable ID="LOC_ZHHANS_ADDON_ONCOLOGYSL_TREATMENTS">
 	<LanguageCode>zh-Hans</LanguageCode>
 	<LanguageNameLocalized>Chinese</LanguageNameLocalized>
@@ -257,6 +257,148 @@
 	<LocID>TRT_SLP_BRAF_INH_DESC</LocID>                        	
 	<Text>BRAF抑制剂有助于阻止BRAF-V600E基因突变。 在临床试验中，B-Raf增加了转移性黑色素瘤患者生存的机会。 尽管该药具有很高的疗效，但仍有20％的肿瘤对治疗产生抵抗力。 \n\n所需房间：任何办公室</Text>  
 	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13 Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TAMOXIFEN</LocID>                                    	
+	<Text>他莫昔芬</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_TAMOXIFEN_DESC</LocID>                        	
+	<Text>他莫昔芬 是治疗男性和女性的乳腺癌激素疗法。 它降低了术后复发的风险和在另一个乳房出现的风险。他也可以在一段时间内控制晚期癌症。\n\nRequired room: 任何诊疗室.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEG_MASTECTOMY</LocID>                                    	
+	<Text>乳房切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_SEG_MASTECTOMY_DESC</LocID>                        	
+	<Text>切除肿瘤和一些周围正常的组织, 但不是切除乳房。 一些上肢下的淋巴结也可能被切除送去活检。如果癌细胞生长在胸腔内壁，也可以切除。 \n\nRequired room: 肿瘤科手术室 dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPERSALINE</LocID>                                    	
+	<Text>高渗生理盐水</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HYPERSALINE_DESC</LocID>                        	
+	<Text>使用高渗盐水或者甘露醇治疗，可迅速降低颅内压，可挽救生命和脑细胞。 高渗盐水是极其有效的，因为不穿过血脑屏障（很多）。 从而将液体从大脑中渗透出，使得颅内压降低，损伤降低。\n\nRequired room: 任何办公室.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_INCISION_AND_DRAINAGE</LocID>                        	
+	<Text>切口引流术</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SL_INCISION_AND_DRAINAGE_DESC</LocID>                                    	
+	<Text>切口引流和临床穿刺是释放液体和降低压力的一种微创手术。 \n\nRequired room: 肿瘤科诊断室 / 肿瘤科检查室 / 重症监护室 / 观察室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_DEBULKING</LocID>                                    	
+	<Text>减积手术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_DEBULKING_DESC</LocID>                        	
+	<Text>这种手术是切除无法治疗的恶性肿瘤的一种方法，虽不能很好的起到治疗效果，但可以方便后续的治疗，比如放疗或其他更有效的治疗方法。从而提高患者生存质量和生存时间。患者需要和医生商讨后续治疗方案，从而提升后续治疗效果。 \n\nRequired room: 神经科手术室 </Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GTR</LocID>                                    	
+	<Text>开颅切除手术（大部分）</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_GTR_DESC</LocID>                        	
+	<Text>开颅切除手术（大部分）是切除核磁共振成像上所呈现的肿瘤组织。在核磁共振成像的基础上，大体切除核磁共振成像上可见的肿瘤组织。\n\nRequired room: 神经科手术室 dpt.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ESTRADIOL_CREAM</LocID>                                    	
+	<Text>雌二醇乳膏 </Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_ESTRADIOL_CREAM_DESC</LocID>                        	
+	<Text>雌二醇是一种雌性激素，可外用于阴道的雌激素制剂，可用于治疗绝经后的一些症状，比如干燥，灼烧和瘙痒的更年期症状，以及尿频，尿痛。 \n\nRequired room: 任何办公室.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_UNI_SALOOPH</LocID>                                    	
+	<Text>单侧输卵管切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_UNI_SALOOPH_DESC</LocID>                        	
+	<Text>这种手术只切除同一侧的输卵管和卵巢， 和同样的血管供应一并切除（反之，双侧切除则两侧均切除).这种手术是一些想保住生育功能的女性们的不二法门。虽然复发率很高，但和总体生存率下降没有关系。 \n\nRequired room: 肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RAD_PROS</LocID>                                    	
+	<Text>根治性前列腺切除手术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RAD_PROS_DESC</LocID>                        	
+	<Text>这种手术可切除前列腺和周围的一些组织。一般包括精囊和附近的淋巴结。这种手术可治愈前列腺癌，或其他在前列腺发生的癌症。 \n\nRequired room: 肿瘤科手术室.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HORMONE_THERAPY</LocID>                                    	
+	<Text>激素疗法</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_HORMONE_THERAPY_DESC</LocID>                        	
+	<Text>激素疗法是激素在临床医学的一种应用 \n\nRequired room: 任何办公室.</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARATHY</LocID>                                    	
+	<Text>甲状旁腺切除术</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_PARATHY_DESC</LocID>                        	
+	<Text>甲状旁腺切除术是用于切除甲状旁腺或甲状旁腺肿瘤的手术，甲状旁腺位于你颈部脖子右侧。这种腺体帮你控制血液中钙的平衡。 \n\nRequired room:肿瘤科手术室</Text>  
+	</GameDBLocalizedString>
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RCHOP</LocID>                                    	
+	<Text>R-CHOP 化疗方案</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RCHOP_DESC</LocID>                        	
+	<Text>R-CHOP化疗方案用于治疗非霍奇金淋巴瘤（NHK）的一种联合化疗方案。R-CHOP联合运用了五种药物: 利妥昔单抗 环磷酰胺 盐酸阿霉素 长春新碱 强地松龙 \n\nRequired room: 肿瘤科普通病房住院</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13.1a Added Below ######################################## -->
+	<!-- ### ### -->
+	
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RITUXIMAB</LocID>                                    	
+	<Text>利妥昔单抗</Text>  
+	</GameDBLocalizedString>
+
+	<GameDBLocalizedString>      
+	<LocID>TRT_SLP_RITUXIMAB_DESC</LocID>                        	
+	<Text>利妥昔单抗以利妥昔单抗等品牌销售，是一种用于治疗某些自身免疫性疾病和各种癌症的药物。利妥昔单抗是一种针对CD20蛋白的嵌合单克隆抗体，主要存在于免疫系统B细胞表面。当它与这种蛋白质结合时，就会触发细胞死亡。必备室:肿瘤dpt定期住院治疗。</Text>  
+	</GameDBLocalizedString>
+	
+	<!-- ### ### -->
+	<!-- ######################################## Content for V0.13.2a Added Below ######################################## -->
+	<!-- ### ### -->
 	</LocalizedStrings>
 	</GameDBStringTable>
 </Database>

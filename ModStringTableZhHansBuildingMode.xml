@@ -10,7 +10,7 @@
 <LocalizedStrings>
 	<GameDBLocalizedString>      
 		<LocID>ROOM_TYPE_ONCO_OFFICE</LocID>                          	
-		<Text>癌症科诊室</Text>   
+		<Text>肿瘤科诊室</Text>   
 	</GameDBLocalizedString>
 	<GameDBLocalizedString>      
 		<LocID>ROOM_TYPE_ONCO_OFFICE_DESCRIPTION</LocID>              	
